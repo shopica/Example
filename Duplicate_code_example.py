@@ -1,5 +1,5 @@
 #Duplicate code example
-def calculate_area(length, width):
+"""def calculate_area(length, width):
     area = length * width
     return area
 
@@ -23,4 +23,4 @@ def calculate_surface_area(length, width, height):
 def calculate_area_perimeter(length, width):
     area = length * width
     perimeter = 2 * (length + width)
-    return area, perimeter
+    return area, perimeter """
